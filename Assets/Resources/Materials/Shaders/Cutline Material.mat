@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cutline Material
+  m_Shader: {fileID: -6465566751694194690, guid: 13b2227b7b285a94c973a6a959d28ac2,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_037e01d2920246e49a908c04a0ef96f0_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6a92b66e1080c8543872e8efb12d4b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1ba86ae54ce84ae88969815c17b047e1_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6a92b66e1080c8543872e8efb12d4b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1ddbb5745d7d4ca08033b9acd1835e5a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: ed7871f544f5662419bdb4f98f5e53ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e05116aaff71406599df0f34889ee494_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6a92b66e1080c8543872e8efb12d4b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e8d38fdeab904ca299d826b1fb8449f9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6a92b66e1080c8543872e8efb12d4b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Cutline1_IsActive: 1
+    - Cutline1_RotationAngle: -3.1475
+    - Cutline2_IsActive: 1
+    - Cutline2_RotationAngle: -4.71
+    - Cutline3_IsActive: 1
+    - Cutline3_RotationAngle: 0
+    - Cutline4_IsActive: 1
+    - Cutline4_RotationAngle: -14.135
+    m_Colors:
+    - Cutline1_Position: {r: 0.35636896, g: -11.75, b: 0, a: 0}
+    - Cutline2_Position: {r: 0.25, g: -13.4, b: 0, a: 0}
+    - Cutline3_Position: {r: 0.35636896, g: 13.25, b: 0, a: 0}
+    - Cutline4_Position: {r: 0.25, g: 11.52, b: 0, a: 0}
+  m_BuildTextureStacks: []
